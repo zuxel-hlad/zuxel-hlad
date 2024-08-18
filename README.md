@@ -1,11 +1,13 @@
 👋 Hey there, I'm a Front End Developer from Ukraine 👋
 Strong team player with a high level of leadership who thrives in a fast-paced environment. Frontend developer with 2.5+ years of experience. Developed a large number of React.js / Vue.js websites. I easily connect with people and quickly learn new skills. I try to always stay on top of new in frontend.
+
 Projects:
 djookyx — Music marketplace.
 otage.com — Women's clothing store.
 clarnium.io — Game Aggregator - Providing with analytical insights.
 bontoy.ua — Сhildren's toy store.
 gerchik.com — Trading courses from Alexander Gerchik.
+
 Tech Skills:
 ✅ React.js:
 
