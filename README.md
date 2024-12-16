@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm a Front End Developer from Ukraine 👋
 
-#### Strong team player with a high level of leadership who thrives in a fast-paced environment. Frontend developer with 2.5+ years of experience. Developed a large number of React.js / Vue.js websites. I easily connect with people and quickly learn new skills. I try to always stay on top of new in frontend.
+#### Strong team player with a high level of leadership who thrives in a fast-paced environment. Frontend developer with 2.5+ years of experience. Developed a large number of Vue.js /  Nuxt.js websites. I easily connect with people and quickly learn new skills. I try to always stay on top of new in frontend.
 
 ## Projects:
 
@@ -16,13 +16,13 @@
 
 ## Tech Skills:
 
-✅ React.js:
-
--   Next.js, Redux, Redux-Thunk, Redux-saga, Redux-Toolkit, Styled Components, Material UI.
-
 ✅ Vue.js:
 
 -   Vue 2, Vue 3, Vue Composition API, Vuex / Pinia, Vue-Router, Vuetify, Nuxt.js 2, Nuxt.js 3.
+
+✅ React.js:
+
+-   Next.js, Redux, Redux-Thunk, Redux-saga, Redux-Toolkit, Styled Components, Material UI.
 
 ✅ JavaScript / TypeScript.
 
