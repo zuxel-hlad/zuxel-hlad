@@ -22,7 +22,7 @@
 
 ✅ React.js:
 
--   Next.js, Redux, Redux-Thunk, Redux-saga, Redux-Toolkit, Styled Components, Material UI.
+-   React.js, Next.js, Redux, Redux-Thunk, Redux-saga, Redux-Toolkit, Styled Components, Material UI.
 
 ✅ JavaScript / TypeScript.
 
