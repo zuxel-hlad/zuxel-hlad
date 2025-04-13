@@ -5,7 +5,7 @@ A collaborative team player 🤝 with strong leadership qualities, thriving in d
 ## Projects:
 
 * [djookyx](https://djookyx.com/) — Music marketplace.
-* [otage.com](https://otage.com/) — Women's clothing store.
+* [otage.com](https://otaje.com/) — Women's clothing store.
 * [clarnium.io](https://clarnium.io/) — Game Aggregator - Providing analytical insights.
 * [bontoy.ua](https://bontoy.ua/) — Сhildren's toy store.
 * [gerchik.com](https://gerchik.com/) — Educational platform for earning money on trading.
