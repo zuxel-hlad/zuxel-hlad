@@ -9,7 +9,7 @@ A collaborative team player 🤝 with strong leadership qualities, thriving in d
 * [clarnium.io](https://clarnium.io/) — Game Aggregator - Providing analytical insights.
 * [bontoy.ua](https://bontoy.ua/) — Сhildren's toy store.
 * [gerchik.com](https://gerchik.com/) — Educational platform for earning money on trading.
-* [[menorah-center.com]](https://menorah-center.com/) — Website of the Menorah Hotel near Dniproю
+* [menorah-center.com](https://menorah-center.com/) — Website of the Menorah Hotel near Dniproю
 
 ## Tech Skills:
 
