@@ -1,61 +1,59 @@
-## 👋 Hey there, I'm a Front End Developer from Ukraine 👋
+👋 Hello! I'm a Front-End Developer from Ukraine 👋
 
-#### Strong team player with a high level of leadership who thrives in a fast-paced environment. Frontend developer with 2.5+ years of experience. Developed a large number of Vue.js /  Nuxt.js websites. I easily connect with people and quickly learn new skills. I try to always stay on top of new in frontend.
+A collaborative team player 🤝 with strong leadership qualities, thriving in dynamic environments. Front-end developer with 3+ years of experience, specializing in developing a wide range of Vue.js and Nuxt.js websites. I excel at building rapport with colleagues and rapidly acquiring new skills. I am committed to staying at the forefront of front-end development trends.
 
 ## Projects:
 
-#### [djookyx](https://djookyx.com/) — Music marketplace.
-
-#### [otage.com](https://otaje.com/ru/) — Women's clothing store.
-
-#### [clarnium.io](https://clarnium.io/) — Game Aggregator - Providing with analytical insights.
-
-#### [bontoy.ua](https://bontoy.ua) — Сhildren's toy store.
-
-#### [gerchik.com](https://gerchik.com/) — Trading courses from Alexander Gerchik.
+* [djookyx](https://djookyx.com/) — Music marketplace.
+* [otage.com](https://otage.com/) — Women's clothing store.
+* [clarnium.io](https://clarnium.io/) — Game Aggregator - Providing analytical insights.
+* [bontoy.ua](https://bontoy.ua/) — Сhildren's toy store.
+* [gerchik.com](https://gerchik.com/) — Educational platform for earning money on trading.
+* [[menorah-center.com]](https://menorah-center.com/) — Website of the Menorah Hotel near Dniproю
 
 ## Tech Skills:
 
-✅ Vue.js:
+* **Vue.js:**
+    * Vue 2, Vue 3
+    * Vue Composition API
+    * Vuex / Pinia
+    * Vue Router
+    * Vuetify
+    * Nuxt.js 2, Nuxt.js 3
+* **React.js:**
+    * React.js
+    * Next.js
+    * Redux, Redux Thunk, Redux Saga, Redux Toolkit
+    * Styled Components
+    * Material UI
+    * (Learned in personal projects, no commercial experience)
+* **Core Technologies:**
+    * Node.js in progress
+    * JavaScript / TypeScript
+    * HTML, PUG
+    * CSS, SASS, SCSS
+    * CSS Animations, BEM, Flexbox, CSS Grid
+    * Bootstrap, Tailwind CSS
+* **Build Tools & APIs:**
+    * Webpack, Babel, Vite, Gulp
+    * Axios, npm, RESTful APIs
+* **Code Quality & Testing:**
+    * ESLint, Prettier, Stylelint
+* **Software & Tools:**
+    * Figma / Adobe Photoshop
+    * Git (GitHub, GitLab, Bitbucket)
+    * JIRA / Trello
+    * Swagger
+    * Postman / Insomnia
+    * Confluence
+    * Google Workspace
+* **Methodologies:**
+    * Scrum, Kanban (Agile Methodologies)
 
--   Vue 2, Vue 3, Vue Composition API, Vuex / Pinia, Vue-Router, Vuetify, Nuxt.js 2, Nuxt.js 3.
+If you are looking for a Front-End Developer to bring your ideas to life, let's connect! I am eager to collaborate and create exceptional web experiences. 🚀
 
-✅ React.js:
+Feel free to reach out!
 
--   React.js, Next.js, Redux, Redux-Thunk, Redux-saga, Redux-Toolkit, Styled Components, Material UI.
-
-✅ JavaScript / TypeScript.
-
-✅ HTML, PUG.
-
-✅ CSS, SASS, SCSS, CSS animations, BEM, Flexbox, CSS GRID, Bootstrap, TailwindCSS.
-
-✅ Webpack, Babel, Vite, Gulp.
-
-✅ Axios, Npm, RESTful API, ESLint, Prettier, Stylelint.
-
-## Software Skills:
-
-✅ Figma / Adobe Photoshop.
-
-✅ GIT ( Github, GitLab, Bitbucket ).
-
-✅ JIRA /Trello.
-
-✅ Swagger.
-
-✅ Postman.
-
-✅ Insomnia.
-
-✅ Confluence.
-
-✅ Google.
-
-## Methodologies:
-
-✅ Scrum, Kanban (Agile Methodologies)
-
-#### If you're on the hunt for a WEB Developer to bring your ideas to life, why not team up with me? Together, we can create something truly amazing!
-
-#### P.S: Don't hesitate, message me! - [Gmail](mailto:stanislavschelokov@gmail.com), [LinkedIn](https://www.linkedin.com/in/stanislav-shchelokov-75ba70199/) or [Telegram](https://t.me/stanislav_shchelokov)
+* [Gmail](mailto:stanislavschelokov@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/stanislav-shchelokov-75ba70199/)
+* [Telegram](https://t.me/stanislav_shchelokov)
