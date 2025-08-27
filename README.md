@@ -28,7 +28,9 @@ A collaborative team player 🤝 with strong leadership qualities, thriving in d
     * Material UI
     * (Learned in personal projects, no commercial experience)
 * **Core Technologies:**
-    * Node.js in progress
+    * Node.js
+    * Express.js
+    * Prisma ORM
     * JavaScript / TypeScript
     * HTML, PUG
     * CSS, SASS, SCSS
