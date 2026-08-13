@@ -1,60 +1,51 @@
 👋 Hello! I'm a Front-End Developer from Ukraine 👋
 
-A collaborative team player 🤝 with strong leadership qualities, thriving in dynamic environments. Front-end developer with 3+ years of experience, specializing in developing a wide range of Vue.js and Nuxt.js websites. I excel at building rapport with colleagues and rapidly acquiring new skills. I am committed to staying at the forefront of front-end development trends.
+A collaborative team player 🤝 with strong leadership qualities, thriving in dynamic environments. Front-End Developer with 4 years of commercial experience, specializing in Vue.js, Nuxt.js, React.js, and Next.js. Experienced in full-stack development with Node.js, Nest.js, and Express.js. I excel at building rapport with colleagues and rapidly acquiring new skills.
 
 ## Projects:
-
-* [djookyx](https://djookyx.com/) — Music marketplace.
-* [otage.com](https://otaje.com/) — Women's clothing store.
-* [clarnium.io](https://clarnium.io/) — Game Aggregator - Providing analytical insights.
-* [bontoy.ua](https://bontoy.ua/) — Сhildren's toy store.
-* [gerchik.com](https://gerchik.com/) — Educational platform for earning money on trading.
-* [menorah-center.com](https://menorah-center.com/) — Website of the Menorah Hotel near Dniproю
+* [djookyx](https://djookyx.com/) — Music Marketplace: First platform for trading music Royalty Rights — SPA with secondary market, investment tracking, and financial tool integration.
+* [otage.com](https://otaje.com/) — Women's Fashion Marketplace: Full-featured e-commerce with modern UI.
+* [clarnium.io](https://clarnium.io/) — Web3 Gaming Platform: Blockchain-based game distribution portal.
+* [bontoy.ua](https://bontoy.ua/) — Children's Toy E-Store: Responsive web shop with playful UX.
+* [gerchik.com](https://gerchik.com/) — Stock Exchange Tool: Investment recommendations for online investors.
+* [menorah-center.com](https://menorah-center.com/) — Hotel Website: Multi-page site with booking and local highlights.
+* [bustour.ua](https://bustour.ua/) — A website for searching and booking bus tickets for travel within Ukraine and abroad.
 
 ## Tech Skills:
-
 * **Vue.js:**
-    * Vue 2, Vue 3
-    * Vue Composition API
+    * Vue 2, Vue 3, Composition API
     * Vuex / Pinia
     * Vue Router
-    * Vuetify
+    * Vuetify, Quasar
     * Nuxt.js 2, Nuxt.js 3
+    * VeeValidate, Zod
 * **React.js:**
-    * React.js
-    * Next.js
+    * React.js, Next.js (13–16)
     * Redux, Redux Thunk, Redux Saga, Redux Toolkit
-    * Styled Components
-    * Material UI
-    * (Learned in personal projects, no commercial experience)
+    * Styled Components, Material UI, Shadcn
+* **Backend:**
+    * Node.js, Express.js, Nest.js
+    * PostgreSQL, Prisma ORM, TypeORM
 * **Core Technologies:**
-    * Node.js
-    * Express.js
-    * Prisma ORM
     * JavaScript / TypeScript
-    * HTML, PUG
-    * CSS, SASS, SCSS
-    * CSS Animations, BEM, Flexbox, CSS Grid
+    * HTML, CSS, SCSS/SASS
+    * BEM, Flexbox, CSS Grid, CSS Animations
     * Bootstrap, Tailwind CSS
 * **Build Tools & APIs:**
-    * Webpack, Babel, Vite, Gulp
-    * Axios, npm, RESTful APIs
-* **Code Quality & Testing:**
+    * Vite, Webpack, Babel, Gulp
+    * Axios, RESTful APIs
+* **Code Quality:**
     * ESLint, Prettier, Stylelint
-* **Software & Tools:**
+* **Tools & Software:**
     * Figma / Adobe Photoshop
-    * Git (GitHub, GitLab, Bitbucket)
-    * JIRA / Trello
-    * Swagger
-    * Postman / Insomnia
-    * Confluence
+    * Git (GitHub, GitLab, Bitbucket, Gitea)
+    * JIRA / Trello / Taiga / Confluence
+    * Postman / Insomnia / Swagger
     * Google Workspace
 * **Methodologies:**
-    * Scrum, Kanban (Agile Methodologies)
+    * Scrum, Kanban (Agile)
 
-If you are looking for a Front-End Developer to bring your ideas to life, let's connect! I am eager to collaborate and create exceptional web experiences. 🚀
-
-Feel free to reach out!
+If you are looking for a Front-End Developer to bring your ideas to life, let's connect! 🚀
 
 * [Gmail](mailto:stanislavschelokov@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/stanislav-shchelokov-75ba70199/)
